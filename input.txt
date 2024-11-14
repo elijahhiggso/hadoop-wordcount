@@ -1,0 +1,6 @@
+hello world
+hello Hadoop
+hello Jenkins
+word count example
+word count
+hello world
